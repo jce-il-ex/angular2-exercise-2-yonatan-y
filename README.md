@@ -57,7 +57,5 @@ Style the app as you wish.
 
 
 
-
-
 Project Console: https://console.firebase.google.com/project/my-project-eebbb/overview
 Hosting URL: https://my-project-eebbb.firebaseapp.com
